@@ -1,0 +1,14 @@
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\bin\Debug\net8.0\P02Functions.exe
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\bin\Debug\net8.0\P02Functions.deps.json
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\bin\Debug\net8.0\P02Functions.runtimeconfig.json
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\bin\Debug\net8.0\P02Functions.dll
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\bin\Debug\net8.0\P02Functions.pdb
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.dll
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\refint\P02Functions.dll
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.pdb
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\P02Functions.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\P02Functions\P02Functions\obj\Debug\net8.0\ref\P02Functions.dll
