@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj": {}
+    "C:\\Projects\\103-csharp-structured\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj": {
+    "C:\\Projects\\103-csharp-structured\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj",
+        "projectUniqueName": "C:\\Projects\\103-csharp-structured\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj",
         "projectName": "P01Scopes",
-        "projectPath": "C:\\Projects\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj",
+        "projectPath": "C:\\Projects\\103-csharp-structured\\103-csharp-structured\\P01Scopes\\P01Scopes\\P01Scopes.csproj",
         "packagesPath": "C:\\Users\\theodor\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\103-csharp-structured\\P01Scopes\\P01Scopes\\obj\\",
+        "outputPath": "C:\\Projects\\103-csharp-structured\\103-csharp-structured\\P01Scopes\\P01Scopes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\theodor\\AppData\\Roaming\\NuGet\\NuGet.Config"
