@@ -1,0 +1,14 @@
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\bin\Debug\net8.0\P01Scopes.exe
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\bin\Debug\net8.0\P01Scopes.deps.json
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\bin\Debug\net8.0\P01Scopes.runtimeconfig.json
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\bin\Debug\net8.0\P01Scopes.dll
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\bin\Debug\net8.0\P01Scopes.pdb
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.dll
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\refint\P01Scopes.dll
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.pdb
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\P01Scopes.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\P01Scopes\P01Scopes\obj\Debug\net8.0\ref\P01Scopes.dll
