@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\bin\Debug\net8.0\P03CallStack.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\bin\Debug\net8.0\P03CallStack.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\bin\Debug\net8.0\P03CallStack.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\bin\Debug\net8.0\P03CallStack.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\bin\Debug\net8.0\P03CallStack.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\refint\P03CallStack.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\P03CallStack.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P03CallStack\P03CallStack\obj\Debug\net8.0\ref\P03CallStack.dll
