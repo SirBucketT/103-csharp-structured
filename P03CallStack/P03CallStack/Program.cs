@@ -17,6 +17,27 @@ void F4(){
     Console.Write("-"); // -A
     F1();
 }
-//BAA-BABBA-AAA-AA-BAB
-//BAA-BABBA-AAA-AA-BAB
+
+
 F2(); F3(); F2(); F4(); F1(); F1(); F4(); F3(); F2();
+Console.WriteLine();
+
+Console.WriteLine("P03_1Triangle");
+int triangleInput = int.Parse(Console.ReadLine());
+
+
+DrawTriangle(triangleInput);
+void DrawTriangle(int triangleInput)
+{
+        if (triangleInput > 0)
+        {
+            for (int i = 0; i < triangleInput; i++)
+            {
+                Console.Write("#");
+            }
+            Console.WriteLine();
+
+               //recursive mcThing
+            DrawTriangle(triangleInput - 1);
+        }
+}
