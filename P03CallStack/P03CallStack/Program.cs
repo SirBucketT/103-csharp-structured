@@ -10,9 +10,12 @@ countdown(timer);
                 Console.WriteLine($"{timer}");
                 countdown(timer - 1);
             }
+            if (timer == 0)
+            {
+                Console.WriteLine("0");
+            }
         
-        
-        }
+    }
 
 
 
