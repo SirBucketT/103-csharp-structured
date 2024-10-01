@@ -29,15 +29,15 @@ int triangleInput = int.Parse(Console.ReadLine());
 DrawTriangle(triangleInput);
 void DrawTriangle(int triangleInput)
 {
-        if (triangleInput > 0)
+    if (triangleInput > 0)
+    {
+        for (int i = 0; i < triangleInput; i++)
         {
-            for (int i = 0; i < triangleInput; i++)
-            {
-                Console.Write("#");
-            }
-            Console.WriteLine();
-
-               //recursive mcThing
-            DrawTriangle(triangleInput - 1);
+            Console.Write("#");
         }
+        Console.WriteLine();
+
+            //recursive mcThing
+        DrawTriangle(triangleInput - 1);
+    }
 }
