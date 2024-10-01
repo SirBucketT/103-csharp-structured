@@ -1,4 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+int timer = 5;
+countdown(timer);
+    void countdown(int timer)
+    {
+   
+         if (timer > 0)
+            {
+                Console.WriteLine($"{timer}");
+                countdown(timer - 1);
+            }
+        
+        
+        }
+
+
+
+
 Console.WriteLine("P03_2FunctionPuzzle");
 
 void F1(){
