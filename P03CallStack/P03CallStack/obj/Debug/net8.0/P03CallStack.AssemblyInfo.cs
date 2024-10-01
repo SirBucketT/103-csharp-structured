@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P03CallStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4754f89a0b694657ececd0abe3e7f6378270dfaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35bb0e50af1434b4b72b2d85e251d6c22c1d639c")]
 [assembly: System.Reflection.AssemblyProductAttribute("P03CallStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P03CallStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
