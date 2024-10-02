@@ -56,3 +56,27 @@ return;
 
 //part 2 of assignment
 Console.WriteLine("P04_1_1BuyGamePls");
+
+
+
+Console.WriteLine("Do you with to buy a game?");
+
+int loop = 0;
+
+while (loop < 1)
+{
+    string buyGame = Console.ReadLine();
+    if (buyGame != "yes")
+    {
+        buyGamePls();
+    } else if (buyGame == "yes")
+    {
+        Console.WriteLine("Thank you");
+        loop++;
+    }
+}
+
+void buyGamePls()
+{
+    Console.WriteLine("Please buy a game.");
+}
