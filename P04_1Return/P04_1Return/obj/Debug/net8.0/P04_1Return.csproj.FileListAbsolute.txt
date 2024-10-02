@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\bin\Debug\net8.0\P04_1Return.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\bin\Debug\net8.0\P04_1Return.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\bin\Debug\net8.0\P04_1Return.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\bin\Debug\net8.0\P04_1Return.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\bin\Debug\net8.0\P04_1Return.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\refint\P04_1Return.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\P04_1Return.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_1Return\P04_1Return\obj\Debug\net8.0\ref\P04_1Return.dll
