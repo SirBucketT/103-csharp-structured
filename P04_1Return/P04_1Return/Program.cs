@@ -94,6 +94,7 @@ Console.WriteLine("P04_1_3MakeTheMessageAppear");
 void MagicMessage(){
     Console.WriteLine("You're trying to find the magic message.");
     // Replace this comment with code.
+    goto Magic;
     return;
     Magic:
     Console.WriteLine("You found the magic message.");
