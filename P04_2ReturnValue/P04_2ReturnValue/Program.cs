@@ -77,3 +77,18 @@ Console.WriteLine($"{mathResults}");
 
 //Part 3 of assignment
 Console.WriteLine("P04_2_2UserInput");
+
+GetUserMatches();
+void GetUserMatches()
+{
+    Console.WriteLine("How many matches do you want to draw?");
+    int userMatches = int.Parse(Console.ReadLine());
+    
+    if (userMatches == 1 || userMatches == 2 || userMatches == 3)
+    {
+        Console.WriteLine(userMatches);
+    }else {
+        Console.WriteLine("Error, try again");
+        GetUserMatches();
+    }
+}
