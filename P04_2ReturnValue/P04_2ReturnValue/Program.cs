@@ -87,8 +87,12 @@ void GetUserMatches()
     if (userMatches == 1 || userMatches == 2 || userMatches == 3)
     {
         Console.WriteLine(userMatches);
+        return; 
     }else {
         Console.WriteLine("Error, try again");
         GetUserMatches();
     }
 }
+
+//part 4 of the assignment
+Console.WriteLine("P04_2_3AIInput");
