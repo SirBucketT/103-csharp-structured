@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\bin\Debug\net8.0\P04_2ReturnValue.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\bin\Debug\net8.0\P04_2ReturnValue.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\bin\Debug\net8.0\P04_2ReturnValue.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\bin\Debug\net8.0\P04_2ReturnValue.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\bin\Debug\net8.0\P04_2ReturnValue.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\refint\P04_2ReturnValue.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\P04_2ReturnValue.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P04_2ReturnValue\P04_2ReturnValue\obj\Debug\net8.0\ref\P04_2ReturnValue.dll
