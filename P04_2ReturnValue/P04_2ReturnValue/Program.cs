@@ -96,3 +96,13 @@ void GetUserMatches()
 
 //part 4 of the assignment
 Console.WriteLine("P04_2_3AIInput");
+
+int GetAIMatches()
+{
+     Console.WriteLine("how many matches does AI want?");
+     Random rand = new Random(); 
+     int aiMatches = rand.Next(1, 4);
+     return aiMatches;
+}
+int aiMatches = GetAIMatches();
+Console.WriteLine(aiMatches); 
