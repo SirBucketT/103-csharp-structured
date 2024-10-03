@@ -78,21 +78,23 @@ Console.WriteLine($"{mathResults}");
 //Part 3 of assignment
 Console.WriteLine("P04_2_2UserInput");
 
-GetUserMatches();
-void GetUserMatches()
+//GetUserMatches();
+int GetUserMatches()
 {
+    error:
     Console.WriteLine("How many matches do you want to draw?");
     int userMatches = int.Parse(Console.ReadLine());
     
     if (userMatches == 1 || userMatches == 2 || userMatches == 3)
     {
-        Console.WriteLine(userMatches);
-        return; 
+        return userMatches; 
     }else {
         Console.WriteLine("Error, try again");
-        GetUserMatches();
+        goto error;
     }
 }
+int userMatches = GetUserMatches();
+Console.WriteLine(userMatches);
 
 //part 4 of the assignment
 Console.WriteLine("P04_2_3AIInput");
