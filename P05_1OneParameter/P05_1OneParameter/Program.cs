@@ -55,3 +55,22 @@ cubical(0);
 cubical(2);
 cubical(3);
 cubical(-4);
+
+//part 5 of the assignment 
+Console.WriteLine("P05_1_3Square");
+
+void square(double sqr)
+{
+    if (sqr < 0)
+    {
+        Console.WriteLine("error does not calculate in the negatives");
+        return;
+    }
+    double squr = (double)Math.Sqrt(sqr);
+    Console.WriteLine(squr);
+}
+
+square(0.5f);
+square(-2f);
+square(0f);
+square(4.2f);
