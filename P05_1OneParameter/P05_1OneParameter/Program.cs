@@ -74,3 +74,53 @@ square(0.5f);
 square(-2f);
 square(0f);
 square(4.2f);
+
+//part 6 of te´he assignment 
+Console.WriteLine("P05_2_4PrimeNumber");
+
+primer();
+void primer()
+{
+    Console.WriteLine("Give me a number and I'll tell you if it's a prime number");
+    int primeInput = int.Parse(Console.ReadLine());
+    
+    if (primeInput <= 1)
+    {
+        Console.WriteLine("input number higher then 2");
+        primer();
+    }
+    if (primeInput == 2)
+    {
+        Console.WriteLine("2 is prime");
+        return;
+    }
+    
+    int remaining = 2;
+    if (primeInput % remaining == 0)
+    {
+        Console.WriteLine($"{primeInput} is not prime");
+        primer(); 
+    } else{
+        Console.WriteLine($"{primeInput} is prime");
+        return;
+    }
+}
+
+//part 7 of assignment
+Console.WriteLine("P05_1_5Countdown");
+
+int inputValue = int.Parse(Console.ReadLine());
+
+countdown();
+void countdown()
+{
+    if (inputValue > 0)
+    {
+        Console.Write($"{inputValue}...");
+        inputValue--;
+        countdown();
+    }
+    else {
+        return;
+    }
+}
