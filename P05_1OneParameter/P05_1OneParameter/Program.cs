@@ -16,13 +16,11 @@ static long Fibonacci(int n)
 
 Console.WriteLine("P05_0_FirstParam");
 
-static void input()
+void input(string s)
 {
-    Console.WriteLine("Marc");
-    Console.WriteLine("Game Programming");
-    Console.WriteLine("Forsbergs");
+    Console.WriteLine(s);
 }
-input();
 
-//part 3 of assignment
-Console.WriteLine("P05_1_1Double");
+input("Marc");
+input("Game Programming");
+input("Forsbergs");
