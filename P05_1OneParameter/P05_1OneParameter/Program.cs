@@ -24,3 +24,19 @@ void input(string s)
 input("Marc");
 input("Game Programming");
 input("Forsbergs");
+
+//Part 3 of the assignment
+Console.WriteLine("P05_1_1Double");
+/* Write a function that takes one integer parameter. It prints double the value to the console. Invoke the function with the following arguments: */
+
+void doubleOutput(int v)
+{
+    Console.WriteLine(v * 2);
+}
+
+doubleOutput(5);
+doubleOutput(-2);
+doubleOutput(0);
+doubleOutput(100);
+doubleOutput(1_000_000_000);
+doubleOutput(2_000_000_000);
