@@ -40,3 +40,18 @@ doubleOutput(0);
 doubleOutput(100);
 doubleOutput(1_000_000_000);
 doubleOutput(2_000_000_000);
+
+//part 4 of the assignment
+Console.WriteLine("P05_1_2Cubical");
+
+void cubical(int number)
+{
+    int cube = (int)Math.Pow(number, 3);
+    Console.WriteLine(cube);
+}
+
+cubical(1);
+cubical(0);
+cubical(2);
+cubical(3);
+cubical(-4);
