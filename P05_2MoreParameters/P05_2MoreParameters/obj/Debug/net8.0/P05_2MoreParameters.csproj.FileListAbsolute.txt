@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\bin\Debug\net8.0\P05_2MoreParameters.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\bin\Debug\net8.0\P05_2MoreParameters.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\bin\Debug\net8.0\P05_2MoreParameters.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\bin\Debug\net8.0\P05_2MoreParameters.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\bin\Debug\net8.0\P05_2MoreParameters.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\refint\P05_2MoreParameters.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\P05_2MoreParameters.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P05_2MoreParameters\P05_2MoreParameters\obj\Debug\net8.0\ref\P05_2MoreParameters.dll
