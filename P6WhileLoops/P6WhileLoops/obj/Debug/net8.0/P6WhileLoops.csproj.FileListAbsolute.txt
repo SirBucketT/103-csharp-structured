@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\refint\P6WhileLoops.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\ref\P6WhileLoops.dll
