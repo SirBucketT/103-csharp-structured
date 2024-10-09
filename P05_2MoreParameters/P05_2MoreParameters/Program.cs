@@ -109,13 +109,28 @@ void randNumGenerator(double randNum1, double randNum2)
 //final part
 Random numberGuess = new Random();
 
-int guess = numberGuess.Next(1, 51);
-int guess2 = numberGuess.Next(51, 100);
-Console.WriteLine("I want you to guess a number between two numbers I've generated, I will loop as long as your guess is incorrect");
+int guess = numberGuess.Next(10, 500001);
+int guess2 = numberGuess.Next(500001, 1000000);
+
+guessingGame(guess, guess2);
 
 void guessingGame(int guess, int guess2)
 {
+    Console.WriteLine("I want you to guess a number between two numbers I've generated, I will loop as long as your guess is incorrect");
+    int userGuess = int.Parse(Console.ReadLine());
     
+    if (userGuess < guess)
+    {
+        Console.WriteLine($"Your guess of {userGuess} is lower then the lowest random generated number.");
+        guessingGame(guess, guess2);
+    } else if (userGuess > guess2)
+    {
+        Console.WriteLine($"Your guess of {userGuess} is greater then the highest random generated number.");
+        guessingGame(guess, guess2);
+    } else if (userGuess > guess && userGuess < guess2)
+    {
+        Console.WriteLine($"Praise the gods above, your guess of {userGuess} is between the lowest random generated {guess} and {guess2}.");
+    }
 }
 
 
