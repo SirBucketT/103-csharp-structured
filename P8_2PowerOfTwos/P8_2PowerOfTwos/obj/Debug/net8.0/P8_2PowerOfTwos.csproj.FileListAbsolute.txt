@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\bin\Debug\net8.0\P8_2PowerOfTwos.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\bin\Debug\net8.0\P8_2PowerOfTwos.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\bin\Debug\net8.0\P8_2PowerOfTwos.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\bin\Debug\net8.0\P8_2PowerOfTwos.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\bin\Debug\net8.0\P8_2PowerOfTwos.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\refint\P8_2PowerOfTwos.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\P8_2PowerOfTwos.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_2PowerOfTwos\P8_2PowerOfTwos\obj\Debug\net8.0\ref\P8_2PowerOfTwos.dll
