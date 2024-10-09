@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\refint\P7DoWhileLoops.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\ref\P7DoWhileLoops.dll
