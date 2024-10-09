@@ -82,3 +82,40 @@ Console.WriteLine("P05_2_3NextDoubleBetween");
 
 //Write a function that takes to double arguments and prints a random number between the first argument (inclusive) and the second argument (exclusive). Figure out a way of testing the function.
 
+
+Console.WriteLine("Give me two numbers and I'll give you a random numbers between them \n number 1:");
+
+double randNum1 = double.Parse(Console.ReadLine());
+Console.Write($"{randNum1} noted, now provide number 2");
+double randNum2 = double.Parse(Console.ReadLine());
+Console.Write($"Generating a random between {randNum1} and {randNum2} with {randNum2} excluded ");
+
+randNumGenerator(randNum1, randNum2);
+
+void randNumGenerator(double randNum1, double randNum2)
+{
+    Random random = new Random();
+
+    if (randNum1 > randNum2)
+    {
+        Console.WriteLine("Wrong numbers input");
+        return; 
+    }
+
+    double randResult = random.NextDouble() * (randNum2 - randNum1) + randNum1;
+    Console.WriteLine(randResult);
+}
+
+//final part
+Random numberGuess = new Random();
+
+int guess = numberGuess.Next(1, 51);
+int guess2 = numberGuess.Next(51, 100);
+Console.WriteLine("I want you to guess a number between two numbers I've generated, I will loop as long as your guess is incorrect");
+
+void guessingGame(int guess, int guess2)
+{
+    
+}
+
+
