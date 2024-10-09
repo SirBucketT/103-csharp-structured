@@ -75,3 +75,10 @@ void powNum(int powNum1, int powNum2)
     double powResult = Math.Pow(powNum1, powNum2);
     Console.WriteLine(powResult);
 }
+
+
+//Next Part
+Console.WriteLine("P05_2_3NextDoubleBetween");
+
+//Write a function that takes to double arguments and prints a random number between the first argument (inclusive) and the second argument (exclusive). Figure out a way of testing the function.
+
