@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\bin\Debug\net8.0\P8_3Countdown.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\bin\Debug\net8.0\P8_3Countdown.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\bin\Debug\net8.0\P8_3Countdown.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\bin\Debug\net8.0\P8_3Countdown.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\bin\Debug\net8.0\P8_3Countdown.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\refint\P8_3Countdown.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\P8_3Countdown.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P8_3Countdown\P8_3Countdown\obj\Debug\net8.0\ref\P8_3Countdown.dll
