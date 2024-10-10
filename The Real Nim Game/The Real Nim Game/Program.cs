@@ -15,8 +15,9 @@ void printPiles()
     {
         Console.WriteLine(new string('0', piles[i])); 
         Console.WriteLine(new string('|', piles[i]));
+        Console.WriteLine();
     }
-}
+} 
 
 Console.WriteLine("Select which pile you want to draw from.");
 
@@ -39,11 +40,34 @@ void pileSelection(int[] ints)
         {
             Console.WriteLine("Can't draw more then 3 sticks or less then 1 stick from pile 1");
             pileSelection(piles);
-        } else if (stickDrawn == 1)
-        {
-            ints[0] = -1;
         }
-
+        
+        ints[0] -= stickDrawn;
+    }else if (pile == 2)
+    {
+        Console.WriteLine("How many sticks do you wish to draw from pile?");
+        stickDrawn = int.Parse(Console.ReadLine());
+        
+        if (stickDrawn < 1 || stickDrawn > 3)
+        {
+            Console.WriteLine("Can't draw more then 3 sticks or less then 1 stick from pile 1");
+            pileSelection(piles);
+        }
+        
+        ints[1] -= stickDrawn;
+    }  else if (pile == 3)
+    {
+        Console.WriteLine("How many sticks do you wish to draw from pile?");
+        stickDrawn = int.Parse(Console.ReadLine());
+        
+        if (stickDrawn < 1 || stickDrawn > 3)
+        {
+            Console.WriteLine("Can't draw more then 3 sticks or less then 1 stick from pile 1");
+            pileSelection(piles);
+        }
+        
+        ints[2] -= stickDrawn;
     }
+    
 }
 printPiles();
