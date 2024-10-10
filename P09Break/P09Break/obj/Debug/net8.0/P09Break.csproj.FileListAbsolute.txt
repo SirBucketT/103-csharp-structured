@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\bin\Debug\net8.0\P09Break.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\bin\Debug\net8.0\P09Break.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\bin\Debug\net8.0\P09Break.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\bin\Debug\net8.0\P09Break.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\bin\Debug\net8.0\P09Break.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\refint\P09Break.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\P09Break.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\P09Break\P09Break\obj\Debug\net8.0\ref\P09Break.dll
