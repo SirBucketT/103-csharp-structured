@@ -74,13 +74,29 @@ void pileSelection(int[] ints)
         
     } //AI win condition
     printPiles();
+    AIturn(piles);
 }
 
-AIturn(piles);
+
 void AIturn(int[] AIints)
 {
     Random AIDraw = new Random();
+    Random AIPile = new Random();
     
+    Console.WriteLine("AI turn");
+    int AIdrew = AIDraw.Next(1, 4);
+    
+    int AIPickPile = AIPile.Next(1, 4);
+    Console.WriteLine($"AI drew{AIdrew} from pile {AIPickPile}");
+
+    if (AIPickPile == 1)
+    {
+        AIints[0] -= AIdrew;
+    } else if (AIPickPile == 2)
+        AIints[1] -= AIdrew;
+    else if (AIPickPile == 3)
+        AIints[2] -= AIdrew;
+
     if (AIints[0] < 1 && AIints[1] < 1 && AIints[2] < 1) //player wins condition
     {
         PlayerWins++; 
