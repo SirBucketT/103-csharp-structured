@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\bin\Debug\net8.0\The Real Nim Game.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\bin\Debug\net8.0\The Real Nim Game.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\bin\Debug\net8.0\The Real Nim Game.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\bin\Debug\net8.0\The Real Nim Game.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\bin\Debug\net8.0\The Real Nim Game.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\refint\The Real Nim Game.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\The Real Nim Game.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\The Real Nim Game\The Real Nim Game\obj\Debug\net8.0\ref\The Real Nim Game.dll

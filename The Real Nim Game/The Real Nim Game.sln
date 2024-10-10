@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Real Nim Game", "The Real Nim Game\The Real Nim Game.csproj", "{A0239DFA-82DF-4CE3-B5CA-7E242F4DFECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0239DFA-82DF-4CE3-B5CA-7E242F4DFECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0239DFA-82DF-4CE3-B5CA-7E242F4DFECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0239DFA-82DF-4CE3-B5CA-7E242F4DFECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0239DFA-82DF-4CE3-B5CA-7E242F4DFECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
