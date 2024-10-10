@@ -77,11 +77,11 @@ void pileSelection(int[] ints)
 }
 
 AIturn(piles);
-void AIturn(int[] ints)
+void AIturn(int[] AIints)
 {
-    Random AI = new Random();
+    Random AIDraw = new Random();
     
-    if (ints[0] < 1 && ints[1] < 1 && ints[2] < 1) //player wins condition
+    if (AIints[0] < 1 && AIints[1] < 1 && AIints[2] < 1) //player wins condition
     {
         PlayerWins++; 
         Console.WriteLine($"Player wins. \n Player wins {AIwins}");
