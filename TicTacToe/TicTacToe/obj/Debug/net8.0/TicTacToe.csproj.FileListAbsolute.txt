@@ -1,0 +1,15 @@
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.sourcelink.json
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\Projects\103-csharp-structured\103-csharp-structured\TicTacToe\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
