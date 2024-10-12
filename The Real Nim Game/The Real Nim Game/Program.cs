@@ -96,6 +96,19 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
 
         Console.WriteLine("AI turn");
         int AIdrew = AIDraw.Next(1, 4);
+        
+        if (AIdrew > 1 && AIints[0] < 1)
+                {
+                    AIdrew++;
+                }
+                else if (AIdrew > 1 && AIints[1] < 1)
+                {
+                    AIdrew++;
+                }
+                else if (AIdrew > 1 && AIints[2] < 1)
+                {
+                    AIdrew++;
+                }
 
         int AIPickPile = AIPile.Next(1, 4);
         Console.WriteLine($"AI drew{AIdrew} from pile {AIPickPile}");
