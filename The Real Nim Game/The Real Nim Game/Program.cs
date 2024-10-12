@@ -2,8 +2,11 @@
 
 Console.WriteLine("The real Nim game.\n The rules are quite simply, draw a number sticks between 1-3 from one of the pile rows.\n  Whoever draws the last stick from all piles loses");
 
+Console.WriteLine("Hello human, prep yourself for to lose!");
+
 int AIwins = 0;
 int PlayerWins = 0;
+
 
 int[] piles = { 3, 4, 5 };
 
@@ -18,6 +21,7 @@ void printPiles()
         Console.WriteLine();
     }
 } //loop that prints out sticks into the console
+
 
 while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
 {
@@ -79,9 +83,18 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
         if (ints[0] < 1 && ints[1] < 1 && ints[2] < 1)
         {
             AIwins++;
-            Console.WriteLine($"AI wins. \n AI wins {AIwins}");
+            Console.WriteLine($"AI wins. \n AI wins {AIwins} \n ");
+            
+            Console.WriteLine("AI: Mwahahaha I win. Don't be too sad, I'm willing to give you another go at a win");
+            
 
         } //AI win condition
+        
+        if (ints[0] == 1 || ints[1] == 1 || ints[2] == 1)
+        {
+            Console.WriteLine("AI: That move was dirty ");
+        }
+        
         
         AIturn(piles);
         
@@ -168,6 +181,7 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
         {
             PlayerWins++;
             Console.WriteLine($"Player wins. \n Player wins {AIwins}");
+           
         }
     }
     printPiles();
