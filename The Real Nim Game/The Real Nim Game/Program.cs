@@ -82,7 +82,7 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
             Console.WriteLine($"AI wins. \n AI wins {AIwins}");
 
         } //AI win condition
-        printPiles();
+        
         AIturn(piles);
         
     } //player turn function
@@ -99,8 +99,24 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
 
         int AIPickPile = AIPile.Next(1, 4);
         Console.WriteLine($"AI drew{AIdrew} from pile {AIPickPile}");
-
+        
         if (AIPickPile == 1 && AIints[0] < 1)
+        {
+            AIPickPile++;
+        }
+        else if (AIPickPile == 2 && AIints[1] < 1)
+        {
+            AIPickPile++;
+        }
+        else if (AIPickPile == 3 && AIints[2] < 1)
+        {
+            AIPickPile++;
+        } else
+        {
+            goto PlayerWinCondition;           
+        }
+
+        /* if (AIPickPile == 1 && AIints[0] < 1)
         {
             Console.WriteLine("Oopsie daisy AI picked up a pile of nothing");
             AIturn(piles);
@@ -119,7 +135,7 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
             Console.WriteLine("Error 404 pile of nothing found");
             AIturn(piles);
             printPiles();
-        }
+        } */ 
 
         if (AIPickPile == 1)
         {
@@ -134,7 +150,7 @@ while (piles[0] > 0 || piles[1] > 0 || piles[2] > 0)
             AIints[2] -= AIdrew;
         }
 
-        
+        PlayerWinCondition: 
         if (AIints[0] < 1 && AIints[1] < 1 && AIints[2] < 1) //player wins condition
         {
             PlayerWins++;
